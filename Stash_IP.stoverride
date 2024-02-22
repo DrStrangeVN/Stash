@@ -1,0 +1,9 @@
+name: THÔNG TIN IP
+desc: THÔNG TIN IP
+tiles:
+  - name: IP
+    icon: 'mappin.and.ellipse'
+    backgroundColor: '#f50505'
+script-providers:
+  IP:
+    url: https://gist.githubusercontent.com/Drstrangevn01/d54d876da222104c32d5049daf8af449/raw/c13e9ec7976bec6878334d6d580cc451a80dba15/Stash_IP.js
