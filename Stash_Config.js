@@ -163,9 +163,13 @@ script-providers:
   AdGuard:
     url: https://github.com/lonely0811/olsd/raw/main/ad.js
     interval: 86400
-script-providers:
-  IP:
-    url: https://raw.githubusercontent.com/DrStrangeVN/Stash/main/Stash_IP.stoverride
+tiles:
+  - name: IP
+    interval: 86400
+    script-providers:
+    IP:
+    url: https://raw.githubusercontent.com/DrStrangeVN/Stash/main/IP.js
+    interval: 86400
 proxy-providers:
   VPN:
     interval: 7200
