@@ -36,6 +36,7 @@ proxy-groups:
       - 🄰🅄🅃🄾 🆂🅸🅽🅶
       - 🄰🅄🅃🄾 🅷🅺
       - 🄰🄳🅂 🅱🅻🅾🅲🅺
+      - 🅰🅳🆂
       - DIRECT
     use:
       - VPN
